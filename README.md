@@ -1,8 +1,8 @@
 # CODTECH-Task-1
 # Credit Card Fraud Detection
 
-Name :- Saurabh Naresh Bokde
-Intern ID :- CT12DPB
+Name :- Himanshu Naresh Bokde
+Intern ID :- CT12DRK
 Domain :- Machine Learning 
 Duration :- 8 weeks
 
